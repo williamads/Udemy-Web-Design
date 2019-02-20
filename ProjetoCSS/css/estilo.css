@@ -1,9 +1,10 @@
 body{
     font: arial, sans-serif;
     background: #ccc;
+    color: blue;
 }
 
 header{
     background-image: url(../imagens/bg-3.jpg);
-    
+
 }
